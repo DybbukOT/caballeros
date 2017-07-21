@@ -61,7 +61,7 @@
       <voice sentence="Hjy.lynne! Hourglass Power is mine!" yell="1"/>
     </voices>
      <loot capacity="5000">
-        <item id="2160" countmax="10" chance="99900"/> <!--crystal coin-->
+        <item id="2160" countmax="5" chance="99900"/> <!--crystal coin-->
 	  	<item id="20415" chance="90000" />     <!--dead hero-->
 		<item id="2143" countmax="80"	chance="90000"> <!-- white pearl---->
 		<item id="2144" countmax="80"	chance="90000"> <!-- black pearl-------->
@@ -80,8 +80,8 @@
 		<item id="20347" countmax="1" chance="5000" /><!-- cake backpack -->
 		<item id="26181" countmax="1" chance="2000" /><!-- energetic backpack -->
 		<item id="23663" countmax="1" chance="4000" /><!-- feedbag -->
-		<item id="10298" chance="2000"> <!--helmet of ultimate terror-->
-		<item id="10299" chance="2000"> <!--helmet of nature-->
-		<item id="10300" chance="2000"> <!--trousers of the ancients-->
+		<item id="10298" chance="1000"> <!--helmet of ultimate terror-->
+		<item id="10299" chance="1000"> <!--helmet of nature-->
+		<item id="10300" chance="1000"> <!--trousers of the ancients-->
 	</loot>
   </monster>
