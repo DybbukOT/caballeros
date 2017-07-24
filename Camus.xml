@@ -56,7 +56,33 @@
       <voice sentence="Hjy.lynne! Hourglass Power is mine!" yell="1"/>
     </voices>
     <loot capacity="5000">
-      <item id="2160" countmax="100" chance="99900"/>
+      <item id="2160" countmax="5" chance="99900"/> <!--crystal coin-->
+	  	<item id="20415" chance="90000" />     <!--dead hero-->
+		<item id="2143" countmax="80"	chance="90000"> <!-- white pearl---->
+		<item id="2144" countmax="80"	chance="90000"> <!-- black pearl-------->
+		<item id="2145" countmax="80"	chance="90000"> <!-- small diamond-------->
+		<item id="2146" countmax="80"	chance="90000"> <!-- small saphire-------->
+		<item id="2147" countmax="80"	chance="90000"> <!--small ruby ---->
+		<item id="2157" countmax="8"	chance="90000"> <!-- gold nugget ---->
+		<item id="8304" countmax="1"	chance="90000"> <!-- ETERNAL FALMES---->
+		<item id="6500" countmax="5" chance="30000"/> <!-- demonic esscences---->	
+		<item id="21399" countmax="1" chance="30000" /><!-- golden raid token -->
+		<item id="18423" countmax="4" chance="9000" /><!-- major tokens -->
+		<item id="18422" countmax="4" chance="9000" /><!-- minor tokens -->
+		<item id="25172" countmax="4" chance="5000"/><!-- silver token -->
+		<item id="23816" countmax="1" chance="500" /> <!-- war backpack-->
+		<item id="14249" countmax="1" chance="10000" /><!-- buggy backpack -->
+		<item id="20347" countmax="1" chance="5000" /><!-- cake backpack -->
+		<item id="26181" countmax="1" chance="2000" /><!-- energetic backpack -->
+		<item id="23663" countmax="1" chance="4000" /><!-- feedbag -->
+		<item id="8878" countmax="1" chance="4000" /><!-- crystalline armor -->
+		<item id="9941" countmax="1" chance="4000" /><!-- crystal of focus -->
+		<item id="2140" countmax="1"	chance="1000"> <!-- holy scarab------>
+		<item id="2141" countmax="1"	chance="1000"> <!-- holy falcon--->
+		<item id="2139" countmax="1"	chance="2000"> <!-- ancient tiara---->
+		<item id="2131" countmax="1"	chance="2000"> <!-- some golden fruits---->
+		<item id="2129" countmax="1"	chance="500"> <!-- crow---->
+		
     </loot>
 	<script>
    <event name="5"/>

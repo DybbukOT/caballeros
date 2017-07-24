@@ -83,5 +83,10 @@
 		<item id="10298" chance="1000"> <!--helmet of ultimate terror-->
 		<item id="10299" chance="1000"> <!--helmet of nature-->
 		<item id="10300" chance="1000"> <!--trousers of the ancients-->
+		<item id="2140" countmax="1"	chance="1000"> <!-- holy scarab------>
+		<item id="2141" countmax="1"	chance="1000"> <!-- holy falcon--->
+		<item id="2139" countmax="1"	chance="2000"> <!-- ancient tiara---->
+		<item id="2131" countmax="1"	chance="2000"> <!-- some golden fruits---->
+		<item id="2129" countmax="1"	chance="500"> <!-- crow---->
 	</loot>
   </monster>

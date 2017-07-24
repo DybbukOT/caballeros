@@ -83,5 +83,10 @@
 		<item id="10289" chance="2000" /> <!--meat shield--> 
 		<item id="10290"  chance="2000"/> <!--glutton's mace-->
 		<item id="10302" chance="2000">  <!--club of the fury-->
+		<item id="2140" countmax="1"	chance="1000"> <!-- holy scarab------>
+		<item id="2141" countmax="1"	chance="1000"> <!-- holy falcon--->
+		<item id="2139" countmax="1"	chance="2000"> <!-- ancient tiara---->
+		<item id="2131" countmax="1"	chance="2000"> <!-- some golden fruits---->
+		<item id="2129" countmax="1"	chance="500"> <!-- crow---->
     </loot>
   </monster>
